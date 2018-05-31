@@ -1,0 +1,12 @@
+,Energy (mcals),Carbs (g),Protein (g),Fat (g),AOAC fibre (g),Potassium (mg),Calcium (mg),Magnesium (mg),Phosphorus (mg),Iron (mg),Copper (mg),Zinc (mg),Manganese (mg),Selenium (µg),Iodine (µg),Vitamin D (µg),Vitamin K1 (µg),Thiamin (mg),Riboflavin (mg),Niacin (mg),Vitamin B6 (mg),Folate (µg),Biotin (µg),Vitamin C (mg),Retinol (µg),Vitamin E (mg),Pantothenate (mg),Cobalimin (ug)
+Person,Energy (mcals),Carbs (g),Protein (g),Fat (g),Fibre (g),Potassium (mg),Calcium (mg),Magnesium (mg),Phosphorus (mg),Iron (mg),Copper (mg),Zinc (mg),Manganese (mg),Selenium (ug),Iodine (ug),Vitamin D (ug),Vitamin K (ug),Thiamin (mg),Riboflavin (mg),Niacin (mg),Vitamin B6 (mg),Folate (ug) ,Biotin (ug),Vitamin C (mg) ,Vitamin A (ug),Vitamin E (mg),Pantothenic acid (mg),Vitamin B12 (ug)
+M,2.7,0.351,58.1,0,25,3500,950,350,550,11,1.6,16.3,3,70,150,15,70,0.1,1.6,1.6,1.7,330,40,110,750,13,5,4
+F,2.1,0.273,58.1,0,25,3500,950,300,550,16,1.3,12.7,3,70,150,15,70,0.1,1.6,1.6,1.6,330,40,95,650,11,5,4
+C,1.9,0.247,45.5,0,16,1800,800,300,440,11,1.3,7.4,1.5,35,90,15,45,0.1,1.4,1.6,1.4,270,35,70,600,13,5,3.5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+adult weight,70,,,,Flouride(mg),Molybdenum (ug),Choline (mg),,,,,,,,,,,,,,,,,,,,,
+child weight,50,,,,3.4,65,400,,,,,,,,,,,,,,,,,,,,,
+,,,,,2.9,65,400,,,,,,,,,,,,,,,,,,,,,
+,,,,,1.5,30,340,,,,,,,,,,,,,,,,,,,,,
